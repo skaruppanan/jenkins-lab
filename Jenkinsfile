@@ -5,7 +5,7 @@ pipeline {
 
         stage('Checkoutted') {
             steps {
-                echo "Checking out code..."
+                echo "cking out code..."
             }
         }
 
